@@ -51,6 +51,7 @@ A curated list of amazingly awesome Persian supporting tools, fonts, and develop
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 * [rust-persian-calendar](https://github.com/yaa110/rust-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Rust.
 * [pholiday](https://github.com/shkarimpour/pholiday) - Persian calendar holidays library for javascript.
+* [pjdate](https://github.com/mjahmadi/pjdate)- The persian jalali calendar date tool for GNU command line in C. 
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
